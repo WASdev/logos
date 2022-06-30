@@ -1,0 +1,17 @@
+By using the WebSphere Liberty logos, you agree that you are subject to and will comply with the terms of use set forth below.  
+
+You are permitted to display and use the WebSphere Liberty logos unmodified for the purpose of referencing the WebSphere Liberty project or runtime in the following way:
+
+* Accurate statements about the compatibility of your product with WebSphere Liberty
+* In text references containing factual statements about WebSphere Liberty
+
+You are not permitted to use the WebSphere Liberty logo in the following way:
+
+* To represent any application or project, other than WebSphere Liberty 
+* To represent yourself as an official spokesperson of the WebSphere Liberty project
+* For the purpose of creating a modified version or altering WebSphere Liberty logos
+* For the purpose of integrating the WebSphere Liberty logo with other company, product, or service names and logos
+
+The WebSphere Liberty logos are trademarks or registered trademarks of International Business Machines Corp. All Rights Reserved to IBM.
+
+For additional information about IBM trademarks, please go to: https://www.ibm.com/legal/us/en/copytrade.shtml[IBM Copyright and trademark conditions].
